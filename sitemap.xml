@@ -3,6 +3,7 @@
 <url> <loc>http://www.along101.site/help.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.along101.site/en/help.html" /> </url>
 <url> <loc>http://www.along101.site/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.along101.site/en/index.html" /> </url>
 <url> <loc>http://www.along101.site/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.along101.site/en/users.html" /> </url>
+<url> <loc>http://www.along101.site/blog/2018/04/03/mysql.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>http://www.along101.site/blog/2017/10/24/new-version-1.0.0.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>http://www.along101.site/blog/2017/09/26/adding-rss.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>http://www.along101.site/blog/2017/09/25/testing-rss.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
